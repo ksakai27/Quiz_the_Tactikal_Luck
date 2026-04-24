@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/kesakai/OneDrive - Microsoft/ドキュメント/Claude/**)",
+      "Read(//c/Users/kesakai/OneDrive - Microsoft/ドキュメント/**)",
+      "Bash(npm install *)",
+      "PowerShell(Get-Command node, npm, npx -ErrorAction SilentlyContinue | Select-Object Name, Source; $env:PATH -split \";\"  | Where-Object { $_ -match \"node\" })",
+      "PowerShell(Get-ItemProperty \"HKLM:\\\\SOFTWARE\\\\Node.js\" -ErrorAction SilentlyContinue; Test-Path \"C:\\\\Program Files\\\\nodejs\\\\npm.cmd\"; Test-Path \"$env:APPDATA\\\\npm\")",
+      "PowerShell(@\\(\"C:\\\\Program Files\\\\nodejs\", \"C:\\\\Program Files \\(x86\\)\\\\nodejs\", \"$env:LOCALAPPDATA\\\\Programs\\\\nodejs\", \"$env:ProgramFiles\\\\nodejs\"\\) | ForEach-Object { if \\(Test-Path $_\\) { \"Found: $_\" } })",
+      "mcp__Claude_Preview__preview_start",
+      "PowerShell(Get-Command npm)",
+      "mcp__Claude_in_Chrome__tabs_context_mcp"
+    ]
+  }
+}
