@@ -842,7 +842,7 @@ export default function QuizApp() {
 
         {/* ── FEEDBACK ── */}
         {screen === 'feedback' && feedback && (
-          <div className="grid gap-4" style={{ gridTemplateColumns: '1fr 1fr', minHeight: '68vh' }}>
+          <div className="grid gap-4" style={{ gridTemplateColumns: '3fr 1fr', minHeight: '68vh' }}>
 
             {/* Left: Result */}
             <HudFrame label="結果" accent={feedback.ok ? '#22c55e' : '#dc2626'} className="p-6 flex flex-col">
