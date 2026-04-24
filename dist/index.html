@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz the Tactical Luck</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rajdhani:wght@500;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet" />
+    <style>
+      *, *::before, *::after { box-sizing: border-box; }
+
+      body {
+        background-color: #09090b;
+        font-family: 'Rajdhani', sans-serif;
+      }
+
+      /* Background handled by HexBackground SVG component */
+
+      /* Metallic gradient text */
+      .metal-text {
+        background: linear-gradient(175deg,
+          #ffffff 0%,
+          #d8d8d8 25%,
+          #ffffff 45%,
+          #989898 65%,
+          #e0e0e0 85%,
+          #b0b0b0 100%
+        );
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+      }
+
+      /* Bebas Neue for all display headings */
+      .font-display {
+        font-family: 'Bebas Neue', sans-serif;
+        letter-spacing: 0.04em;
+      }
+
+      .font-tactical {
+        font-family: 'Rajdhani', sans-serif;
+        font-weight: 700;
+      }
+
+      .font-terminal {
+        font-family: 'Share Tech Mono', 'Courier New', monospace;
+      }
+
+      /* Animated title glow */
+      @keyframes title-flicker {
+        0%, 89%, 100% {
+          filter: drop-shadow(0 0 12px rgba(220,38,38,0.9))
+                  drop-shadow(0 0 30px rgba(220,38,38,0.5))
+                  drop-shadow(0 4px 60px rgba(185,28,28,0.3));
+        }
+        90%, 92% {
+          filter: drop-shadow(0 0 4px rgba(220,38,38,0.5))
+                  drop-shadow(0 0 10px rgba(220,38,38,0.2));
+        }
+        91% {
+          filter: drop-shadow(0 0 12px rgba(220,38,38,0.9))
+                  drop-shadow(0 0 30px rgba(220,38,38,0.5));
+        }
+      }
+
+      .title-glow {
+        animation: title-flicker 6s ease-in-out infinite;
+      }
+
+      /* Red border pulse for active cards */
+      @keyframes border-pulse {
+        0%, 100% { box-shadow: 0 0 0 0 rgba(220,38,38,0); border-color: rgba(185,28,28,0.6); }
+        50% { box-shadow: 0 0 20px 2px rgba(220,38,38,0.25); border-color: rgba(220,38,38,0.9); }
+      }
+
+      .border-pulse {
+        animation: border-pulse 2.5s ease-in-out infinite;
+      }
+
+      /* Scanline overlay on terminal */
+      .scanline {
+        position: relative;
+        overflow: hidden;
+      }
+
+      .scanline::after {
+        content: '';
+        position: absolute;
+        inset: 0;
+        background: repeating-linear-gradient(
+          0deg,
+          transparent,
+          transparent 2px,
+          rgba(0,0,0,0.08) 2px,
+          rgba(0,0,0,0.08) 4px
+        );
+        pointer-events: none;
+        z-index: 1;
+      }
+
+      /* Block button hover glow */
+      .block-btn {
+        transition: all 0.15s ease;
+        position: relative;
+        overflow: hidden;
+      }
+
+      .block-btn::before {
+        content: '';
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(135deg, rgba(220,38,38,0.15) 0%, transparent 60%);
+        opacity: 0;
+        transition: opacity 0.15s ease;
+      }
+
+      .block-btn:hover::before { opacity: 1; }
+
+      .block-btn:hover {
+        border-color: rgba(220,38,38,0.8) !important;
+        box-shadow: 0 0 16px rgba(220,38,38,0.35), inset 0 0 16px rgba(220,38,38,0.08);
+        transform: translateY(-1px);
+      }
+
+      /* Button shine sweep */
+      @keyframes shine {
+        0% { left: -100%; }
+        100% { left: 200%; }
+      }
+
+      .btn-primary {
+        position: relative;
+        overflow: hidden;
+      }
+
+      .btn-primary::after {
+        content: '';
+        position: absolute;
+        top: 0; bottom: 0;
+        width: 40%;
+        background: linear-gradient(90deg, transparent, rgba(255,255,255,0.12), transparent);
+        left: -100%;
+        animation: shine 3s ease-in-out infinite;
+      }
+
+      /* Custom scrollbar */
+      ::-webkit-scrollbar { width: 4px; }
+      ::-webkit-scrollbar-track { background: #18181b; }
+      ::-webkit-scrollbar-thumb { background: #7f1d1d; border-radius: 2px; }
+
+      /* Lightning flash animation */
+      @keyframes lightning-flash {
+        0%   { opacity: 0; }
+        4%   { opacity: 1; }
+        18%  { opacity: 0.75; }
+        26%  { opacity: 1; }
+        55%  { opacity: 0.25; }
+        75%  { opacity: 0; }
+        100% { opacity: 0; }
+      }
+
+      /* Correct/incorrect flash */
+      @keyframes correct-flash {
+        0% { background: rgba(20,83,45,0.5); }
+        100% { background: rgba(20,83,45,0.15); }
+      }
+      @keyframes incorrect-flash {
+        0% { background: rgba(127,29,29,0.5); }
+        100% { background: rgba(127,29,29,0.2); }
+      }
+
+      .result-correct { animation: correct-flash 0.6s ease-out forwards; }
+      .result-incorrect { animation: incorrect-flash 0.6s ease-out forwards; }
+    </style>
+    <script type="module" crossorigin src="/assets/index-CV9wtWGv.js"></script>
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
