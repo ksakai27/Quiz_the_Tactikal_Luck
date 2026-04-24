@@ -685,7 +685,8 @@ export default function QuizApp() {
       </header>
 
       {/* ── MAIN ── */}
-      <main className={`mx-auto px-5 py-5 relative z-10 ${screen === 'quiz' ? 'max-w-screen-2xl' : 'max-w-screen-xl pb-48'}`}>
+      <main className={`mx-auto py-5 relative z-10 ${screen === 'quiz' || screen === 'feedback' ? 'max-w-screen-2xl' : 'max-w-screen-xl pb-48'}`}
+        style={{ paddingLeft: screen === 'quiz' || screen === 'feedback' ? 492 : 20, paddingRight: 20 }}>
 
         {/* ── START ── */}
         {screen === 'start' && (
