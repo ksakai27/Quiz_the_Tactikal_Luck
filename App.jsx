@@ -494,7 +494,6 @@ export default function QuizApp() {
   const answerInputRef = useRef(null);
   const introPlayedRef = useRef(false);
   const prevTickSecRef = useRef(null);
-  const timedOutRef = useRef(false);
   const autoStartedRef = useRef(false);
   const [startReady, setStartReady] = useState(false);
 
@@ -528,7 +527,6 @@ export default function QuizApp() {
   }, [answerMode, countingActive, lastTypedAt, screen]);
 
   const startQuestion = useCallback((index) => {
-    timedOutRef.current = false;
     autoStartedRef.current = false;
     setCurrentIndex(index); setDisplayedText(''); setTypedLength(0);
     setAnswerMode(false); setAnswerText(''); setRemainingMs(COUNTDOWN_TOTAL_MS);
@@ -552,7 +550,7 @@ export default function QuizApp() {
   }, [currentQuestion, answerText, currentIndex]);
 
   useEffect(() => {
-    if (!questionFullyRevealed || answerMode || screen !== 'quiz' || timedOutRef.current) return;
+    if (!questionFullyRevealed || answerMode || screen !== 'quiz') return;
     const t = setTimeout(() => { autoStartedRef.current = true; setAnswerMode(true); setCountingActive(true); }, 2000);
     return () => clearTimeout(t);
   }, [questionFullyRevealed, answerMode, screen]);
@@ -564,7 +562,6 @@ export default function QuizApp() {
       submitAnswer(true);
     } else {
       // 手動ボタン押し（タイプ途中） → 表示再開
-      timedOutRef.current = true;
       setAnswerMode(false); setCountingActive(false);
       setRemainingMs(COUNTDOWN_TOTAL_MS); setAnswerText(''); setLastTypedAt(null);
     }
