@@ -506,6 +506,7 @@ export default function QuizApp() {
   const introPlayedRef = useRef(false);
   const prevTickSecRef = useRef(null);
   const autoStartedRef = useRef(false);
+  const [autoStarted, setAutoStarted] = useState(false);
   const [startReady, setStartReady] = useState(false);
 
   const currentQuestion = questions[currentIndex];
@@ -538,7 +539,7 @@ export default function QuizApp() {
   }, [answerMode, countingActive, lastTypedAt, screen]);
 
   const startQuestion = useCallback((index) => {
-    autoStartedRef.current = false;
+    autoStartedRef.current = false; setAutoStarted(false);
     setCurrentIndex(index); setDisplayedText(''); setTypedLength(0);
     setAnswerMode(false); setAnswerText(''); setRemainingMs(COUNTDOWN_TOTAL_MS);
     setCountingActive(false); setLastTypedAt(null); setFeedback(null);
@@ -562,7 +563,7 @@ export default function QuizApp() {
 
   useEffect(() => {
     if (!questionFullyRevealed || answerMode || screen !== 'quiz') return;
-    const t = setTimeout(() => { autoStartedRef.current = true; setAnswerMode(true); setCountingActive(true); }, 2000);
+    const t = setTimeout(() => { autoStartedRef.current = true; setAutoStarted(true); setAnswerMode(true); setCountingActive(true); }, 2000);
     return () => clearTimeout(t);
   }, [questionFullyRevealed, answerMode, screen]);
 
@@ -620,7 +621,7 @@ export default function QuizApp() {
     prevTickSecRef.current = secs;
   }, [remainingMs, answerMode, countingActive]);
 
-  const openAnswerMode = () => { autoStartedRef.current = false; playButtonPress(); setAnswerMode(true); setCountingActive(true); };
+  const openAnswerMode = () => { autoStartedRef.current = false; setAutoStarted(false); playButtonPress(); setAnswerMode(true); setCountingActive(true); };
   const goToNextBlock = () => { const n = currentIndex + 1; if (n >= totalQuestions) { setScreen('done'); return; } startQuestion(n); setScreen('quiz'); };
   const restart = () => { setResults([]); startQuestion(0); introPlayedRef.current = false; setStartReady(false); setScreen('start'); };
 
@@ -872,6 +873,30 @@ export default function QuizApp() {
                     onClick={() => submitAnswer(false)}>
                     回答する »
                   </button>
+
+                  {/* タイマーストップボタン（自動スタート時のみ表示） */}
+                  {autoStarted && (
+                    <button
+                      className="w-full font-display transition-all"
+                      style={{
+                        padding: '0.75rem', fontSize: '1.6rem', letterSpacing: '0.08em',
+                        background: countingActive
+                          ? 'linear-gradient(160deg,#713f12,#a16207)'
+                          : 'rgba(30,20,5,0.9)',
+                        border: `1px solid ${countingActive ? '#ca8a04' : '#713f12'}`,
+                        color: countingActive ? '#fef08a' : '#a16207',
+                        boxShadow: countingActive ? '0 0 16px rgba(202,138,4,0.4)' : 'none',
+                      }}
+                      onClick={() => {
+                        if (countingActive) {
+                          setCountingActive(false); setLastTypedAt(null);
+                        } else {
+                          setCountingActive(true);
+                        }
+                      }}>
+                      {countingActive ? '⏸ タイマーストップ' : '▶ タイマー再開'}
+                    </button>
+                  )}
                 </>
               )}
             </div>
