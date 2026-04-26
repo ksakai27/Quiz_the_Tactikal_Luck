@@ -1,5 +1,13 @@
 import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react';
-import questionsData from './questions.json';
+
+// quizzes/ フォルダ内のJSONを自動検出（ビルド時に解決）
+const quizModules = import.meta.glob('./quizzes/*.json', { eager: true });
+const availableQuizzes = Object.entries(quizModules)
+  .map(([path, mod]) => ({
+    name: path.replace('./quizzes/', '').replace('.json', ''),
+    data: Array.isArray(mod.default) ? mod.default : [],
+  }))
+  .sort((a, b) => a.name.localeCompare(b.name, 'ja'));
 
 // ── Audio ──────────────────────────────────────────────────────────────────────
 let _ac = null;
@@ -464,10 +472,13 @@ function BlockDots({ results, segmentStart, segmentEnd, currentIndex }) {
 // ── Main Component ─────────────────────────────────────────────────────────
 
 export default function QuizApp() {
+  const [selectedQuizName, setSelectedQuizName] = useState(availableQuizzes[0]?.name ?? '');
+
   const questions = useMemo(() => {
-    if (!Array.isArray(questionsData)) return [];
-    return questionsData.map(toQuestion);
-  }, []);
+    const quiz = availableQuizzes.find(q => q.name === selectedQuizName);
+    if (!quiz) return [];
+    return quiz.data.map(toQuestion);
+  }, [selectedQuizName]);
 
   const totalQuestions = questions.length;
   const [screen, setScreen] = useState('start');
@@ -704,6 +715,33 @@ export default function QuizApp() {
                 {totalQuestions} QUESTIONS &nbsp;·&nbsp; {SEGMENT_SIZE} PER BLOCK
               </p>
             </div>
+
+            {/* Quiz selector */}
+            {availableQuizzes.length > 1 && (
+              <div className="w-full max-w-sm space-y-2">
+                <p className="text-center font-terminal text-zinc-600" style={{ fontSize: '0.6rem', letterSpacing: '0.3em' }}>
+                  — SELECT QUIZ —
+                </p>
+                <div className="relative">
+                  <select
+                    className="w-full font-terminal bg-black text-white border border-red-900 px-4 py-3 outline-none appearance-none cursor-pointer"
+                    style={{ fontSize: '1.1rem', letterSpacing: '0.05em',
+                      background: 'rgba(10,5,5,0.95)',
+                      boxShadow: '0 0 12px rgba(127,29,29,0.3)' }}
+                    value={selectedQuizName}
+                    onChange={e => {
+                      setSelectedQuizName(e.target.value);
+                      setResults([]); startQuestion(0);
+                      setStartReady(false);
+                    }}>
+                    {availableQuizzes.map(q => (
+                      <option key={q.name} value={q.name}>{q.name}</option>
+                    ))}
+                  </select>
+                  <span className="absolute right-4 top-1/2 -translate-y-1/2 text-red-700 pointer-events-none">▼</span>
+                </div>
+              </div>
+            )}
 
             {!startReady ? (
               /* Tap-to-begin overlay — first user gesture plays intro then reveals blocks */
