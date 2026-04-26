@@ -1,0 +1,1202 @@
+[
+  {
+    "number": 1,
+    "Quiz": "和製英語「サラリーマン」を、自然な英語で言うならどれ？\n1. salary payer\n2. office worker\n3. paid man\n4. business owner",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "会社勤めの人を表す日常語です。",
+    "Explanation": "「salary」と「man」を合わせた日本語化した表現。英語では職種や文脈により office worker や company employee が自然です。",
+    "Fun": "サラリー前払いでも、その答えは欠勤扱いでございますなぁ。"
+  },
+  {
+    "number": 2,
+    "Quiz": "和製英語「ノートパソコン」を、自然な英語で言うならどれ？\n1. desktop computer\n2. tablet case\n3. laptop\n4. notebook paper",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "持ち運べるタイプのパソコンです。",
+    "Explanation": "日本語では「ノート型のパソコン」からノートパソコンと言いますが、英語の日常表現では laptop が一般的です。",
+    "Fun": "ノートは開いたのに、頭の電源が入ってませんなぁ。"
+  },
+  {
+    "number": 3,
+    "Quiz": "和製英語「コンセント」を、自然な英語で言うならどれ？\n1. electrical outlet\n2. consent\n3. concentric circle\n4. extension cord",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "プラグを差し込む場所です。",
+    "Explanation": "日本語のコンセントは電源の差し込み口。英語の consent は「同意」で、差し込み口は electrical outlet などと言います。",
+    "Fun": "同意は取れましたが、電気は通っておりませんなぁ。"
+  },
+  {
+    "number": 4,
+    "Quiz": "和製英語「ホッチキス」を、自然な英語で言うならどれ？\n1. hot kiss\n2. paper clip\n3. hole punch\n4. stapler",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "紙を針でとじる文房具です。",
+    "Explanation": "日本語のホッチキスは紙をとじる器具。英語では一般に stapler と言います。",
+    "Fun": "紙はとじても、知識の穴はとじきれませんなぁ。"
+  },
+  {
+    "number": 5,
+    "Quiz": "和製英語「シャーペン」を、自然な英語で言うならどれ？\n1. sharp pen\n2. ballpoint pen\n3. mechanical pencil\n4. highlighter",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "芯をくり出して書く筆記具です。",
+    "Explanation": "「シャープペンシル」の短縮形。英語では sharp pen ではなく mechanical pencil が自然です。",
+    "Fun": "芯は出ましたが、答えの芯を外しましたなぁ。"
+  },
+  {
+    "number": 6,
+    "Quiz": "和製英語「ガソリンスタンド」を、自然な英語で言うならどれ？\n1. gasoline stand\n2. gas station\n3. car wash\n4. parking lot",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "車に燃料を入れる場所です。",
+    "Explanation": "日本語ではガソリンスタンドですが、英語では gas station、地域により petrol station と言います。",
+    "Fun": "燃料満タンでも、正解メーターは空でございますなぁ。"
+  },
+  {
+    "number": 7,
+    "Quiz": "和製英語「コインランドリー」を、自然な英語で言うならどれ？\n1. coin laundry\n2. dry cleaner\n3. washing machine\n4. laundromat",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "外にあるセルフ式の洗濯施設です。",
+    "Explanation": "日本語のコインランドリーは、英語では laundromat や self-service laundry が自然です。",
+    "Fun": "洗濯は回っても、頭のドラムは空回りですなぁ。"
+  },
+  {
+    "number": 8,
+    "Quiz": "和製英語「フライドポテト」を、自然な英語で言うならどれ？\n1. French fries\n2. hash browns\n3. potato chips\n4. roasted potatoes",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "ファストフードで定番の細長い揚げ物です。",
+    "Explanation": "日本語のフライドポテトは、英語では一般に French fries。イギリス英語では chips とも呼ばれます。",
+    "Fun": "ポテトは揚がっても、点数は揚がりませんなぁ。"
+  },
+  {
+    "number": 9,
+    "Quiz": "和製英語「アメリカンドッグ」を、自然な英語で言うならどれ？\n1. American dog\n2. hot dog\n3. corn dog\n4. sausage roll",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "棒つきソーセージを衣で包んだ食べ物です。",
+    "Explanation": "日本語のアメリカンドッグは、英語では corn dog。American dog だと犬の話に聞こえます。",
+    "Fun": "犬ではなく食べ物、そこを嗅ぎ分けられませんでしたなぁ。"
+  },
+  {
+    "number": 10,
+    "Quiz": "和製英語「ソフトクリーム」を、自然な英語で言うならどれ？\n1. soft cream\n2. soft serve\n3. whipped cream\n4. ice cube",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "機械から巻いて出す冷たいデザートです。",
+    "Explanation": "日本語のソフトクリームは、英語では soft serve や soft-serve ice cream と言います。",
+    "Fun": "甘い問題でしたが、答えは溶けてしまいましたなぁ。"
+  },
+  {
+    "number": 11,
+    "Quiz": "和製英語「ベビーカー」を、自然な英語で言うならどれ？\n1. baby car\n2. crib\n3. car seat\n4. stroller",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "赤ちゃんを乗せて押す乗り物です。",
+    "Explanation": "日本語ではベビーカー。英語では stroller、地域により pram や pushchair も使われます。",
+    "Fun": "押しても引いても、正解には進みませんでしたなぁ。"
+  },
+  {
+    "number": 12,
+    "Quiz": "和製英語「ペットボトル」を、自然な英語で言うならどれ？\n1. plastic bottle\n2. bottle for pets\n3. glass bottle\n4. water bowl",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "飲み物でよく使う透明な容器です。",
+    "Explanation": "PETは素材名として英語にもありますが、日常会話では plastic bottle が自然です。",
+    "Fun": "ペット用ではありませんぞ、首輪をつけても飲めませんなぁ。"
+  },
+  {
+    "number": 13,
+    "Quiz": "和製英語「キーホルダー」を、自然な英語で言うならどれ？\n1. key holder\n2. door lock\n3. key chain\n4. ID card",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "鍵につける小物です。",
+    "Explanation": "日本語のキーホルダーは、英語では key chain や key ring が一般的です。",
+    "Fun": "鍵は持っていても、正解の扉は開きませんでしたなぁ。"
+  },
+  {
+    "number": 14,
+    "Quiz": "和製英語「ワイシャツ」を、自然な英語で言うならどれ？\n1. white shirt\n2. dress shirt\n3. T-shirt\n4. sweater",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "スーツの下によく着る襟つきのシャツです。",
+    "Explanation": "語源は white shirt とされますが、英語では dress shirt や business shirt が自然です。",
+    "Fun": "襟は正しても、答えの身だしなみが乱れておりますなぁ。"
+  },
+  {
+    "number": 15,
+    "Quiz": "和製英語「トレーナー」を、自然な英語で言うならどれ？\n1. trainer\n2. coach\n3. sneakers\n4. sweatshirt",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "部屋着や運動着で着る厚手の上着です。",
+    "Explanation": "衣類としてのトレーナーは、英語では sweatshirt。trainer は指導者などを指します。",
+    "Fun": "鍛える相手を間違えましたなぁ、まず語彙の筋トレです。"
+  },
+  {
+    "number": 16,
+    "Quiz": "和製英語「マフラー」を、自然な英語で言うならどれ？\n1. scarf\n2. car muffler\n3. face mask\n4. hoodie",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "首に巻いて防寒するものです。",
+    "Explanation": "首に巻くマフラーは、英語では scarf が自然です。muffler は車の消音器を指すことが多い語です。",
+    "Fun": "首元は温かくても、正解は冷え込んでおりますなぁ。"
+  },
+  {
+    "number": 17,
+    "Quiz": "和製英語「ワンピース」を、自然な英語で言うならどれ？\n1. jacket\n2. dress\n3. jeans\n4. socks",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "上下がつながった女性服としてよく使われます。",
+    "Explanation": "服としてのワンピースは、英語では dress。one-piece は水着など限られた文脈で使われます。",
+    "Fun": "一枚で決まる服なのに、一発で決まりませんでしたなぁ。"
+  },
+  {
+    "number": 18,
+    "Quiz": "和製英語「ビーチサンダル」を、自然な英語で言うならどれ？\n1. beach shoes\n2. rain boots\n3. flip-flops\n4. slippers",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "夏に履く、鼻緒のある軽い履物です。",
+    "Explanation": "日本語のビーチサンダルは、英語では flip-flops が一般的です。",
+    "Fun": "パタパタ歩いて、正解からもパタパタ逃げましたなぁ。"
+  },
+  {
+    "number": 19,
+    "Quiz": "和製英語「ガムテープ」を、自然な英語で言うならどれ？\n1. gum tape\n2. duct tape\n3. sticky note\n4. packing tape",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "荷物の箱を閉じるときによく使います。",
+    "Explanation": "日本語のガムテープは梱包用テープ全般を指しがちです。英語では packing tape が無難です。",
+    "Fun": "答えを貼りつける粘着力が足りませんでしたなぁ。"
+  },
+  {
+    "number": 20,
+    "Quiz": "和製英語「ペーパードライバー」を、自然な英語で言うならどれ？\n1. inexperienced driver\n2. paper driver\n3. taxi driver\n4. delivery driver",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "免許はあるけれど、ほとんど運転しない人です。",
+    "Explanation": "日本語のペーパードライバーは、免許はあるが運転経験が少ない人。英語では inexperienced driver などと説明します。",
+    "Fun": "免許は紙でも、誤答は立派な現行犯でございますなぁ。"
+  },
+  {
+    "number": 21,
+    "Quiz": "和製英語「フロントガラス」を、自然な英語で言うならどれ？\n1. front glass\n2. windshield\n3. side window\n4. sunroof",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "車の前面にある大きなガラスです。",
+    "Explanation": "車のフロントガラスは、アメリカ英語では windshield、イギリス英語では windscreen と言います。",
+    "Fun": "前は見えても、正解への視界は曇っておりましたなぁ。"
+  },
+  {
+    "number": 22,
+    "Quiz": "和製英語「バックミラー」を、自然な英語で言うならどれ？\n1. back mirror\n2. side mirror\n3. rear-view mirror\n4. makeup mirror",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "車内で後ろを見るための鏡です。",
+    "Explanation": "日本語のバックミラーは、英語では rear-view mirror。back mirror は自然な表現ではありません。",
+    "Fun": "後ろを見すぎて、正解が前から通り過ぎましたなぁ。"
+  },
+  {
+    "number": 23,
+    "Quiz": "和製英語「ハンドル」を、自然な英語で言うならどれ？\n1. steering wheel\n2. handle\n3. door knob\n4. gear shift",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "車の進む方向を変える丸い部品です。",
+    "Explanation": "車のハンドルは、英語では steering wheel。handle は取っ手などを広く指します。",
+    "Fun": "舵取りを誤って、正解コースから脱輪ですなぁ。"
+  },
+  {
+    "number": 24,
+    "Quiz": "和製英語「ウインカー」を、自然な英語で言うならどれ？\n1. winker\n2. hazard light\n3. headlight\n4. turn signal",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "曲がる方向を周囲に知らせるランプです。",
+    "Explanation": "日本語のウインカーは、英語では turn signal や indicator。winker は自然ではありません。",
+    "Fun": "合図は出したのに、答えは反対車線へ行きましたなぁ。"
+  },
+  {
+    "number": 25,
+    "Quiz": "和製英語「クラクション」を、自然な英語で言うならどれ？\n1. car radio\n2. car horn\n3. brake pedal\n4. turn signal",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "車で注意を促すために鳴らすものです。",
+    "Explanation": "日本語のクラクションは車の警音器。英語では car horn または horn と言います。",
+    "Fun": "プップー、誤答車両が通過いたしましたなぁ。"
+  },
+  {
+    "number": 26,
+    "Quiz": "和製英語「オートバイ」を、自然な英語で言うならどれ？\n1. autobike\n2. bicycle\n3. motorcycle\n4. compact car",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "エンジンで走る二輪車です。",
+    "Explanation": "日本語のオートバイは、英語では motorcycle。autobike は一般的な英語表現ではありません。",
+    "Fun": "二輪で軽快なはずが、答えは見事に転倒ですなぁ。"
+  },
+  {
+    "number": 27,
+    "Quiz": "和製英語「サイドブレーキ」を、自然な英語で言うならどれ？\n1. side brake\n2. side mirror\n3. footrest\n4. parking brake",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "駐車中に車を止めておくブレーキです。",
+    "Explanation": "日本語のサイドブレーキは、英語では parking brake や handbrake と言います。",
+    "Fun": "ブレーキをかけすぎて、正解まで止まりましたなぁ。"
+  },
+  {
+    "number": 28,
+    "Quiz": "和製英語「マンション」を、自然な英語で言うならどれ？\n1. apartment\n2. mansion\n3. palace\n4. hotel",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "集合住宅の一室を指す日常語です。",
+    "Explanation": "英語の mansion は大邸宅。日本語のマンションは apartment や condominium が自然です。",
+    "Fun": "大邸宅のつもりが、答えはワンルームでしたなぁ。"
+  },
+  {
+    "number": 29,
+    "Quiz": "和製英語「リフォーム」を、自然な英語で言うならどれ？\n1. legal reform\n2. return form\n3. renovation\n4. uniform",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "家や部屋を直して新しくすることです。",
+    "Explanation": "家のリフォームは、英語では renovation や remodeling。reform は制度改革などに使うことが多い語です。",
+    "Fun": "家は直せても、誤答の間取りは直せませんなぁ。"
+  },
+  {
+    "number": 30,
+    "Quiz": "和製英語「オーダーメイド」を、自然な英語で言うならどれ？\n1. order made\n2. custom-made item\n3. ready-made item\n4. mail order",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "注文に合わせて特別に作る品や方式です。",
+    "Explanation": "日本語のオーダーメイドは、英語では custom-made item や made-to-order item が自然です。",
+    "Fun": "特注の誤答とは、なかなか贅沢でございますなぁ。"
+  },
+  {
+    "number": 31,
+    "Quiz": "和製英語「クレーム」を、自然な英語で言うならどれ？\n1. claim\n2. compliment\n3. coupon\n4. complaint",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "店や会社に不満を伝えることです。",
+    "Explanation": "日本語のクレームは苦情。英語の claim は主張・請求などで、苦情は complaint が自然です。",
+    "Fun": "その答えには、こちらから苦情を入れたいですなぁ。"
+  },
+  {
+    "number": 32,
+    "Quiz": "和製英語「バージョンアップ」を、自然な英語で言うならどれ？\n1. upgrade\n2. version up\n3. download\n4. reset",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "機能や内容を新しく良くすることです。",
+    "Explanation": "日本語ではバージョンアップと言いますが、英語では upgrade が自然です。",
+    "Fun": "回答ソフトの更新、まだインストール待ちですなぁ。"
+  },
+  {
+    "number": 33,
+    "Quiz": "和製英語「マイブーム」を、自然な英語で言うならどれ？\n1. my boom\n2. loud noise\n3. current obsession\n4. public holiday",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "最近、自分の中で流行っているものです。",
+    "Explanation": "日本語のマイブームは「個人的な流行」。英語では current obsession や personal fad などと言えます。",
+    "Fun": "ブームが来る前に、正解の波が去りましたなぁ。"
+  },
+  {
+    "number": 34,
+    "Quiz": "和製英語「マイカー」を、自然な英語で言うならどれ？\n1. mini car\n2. private car\n3. rental car\n4. company car",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "自分が所有する車のことです。",
+    "Explanation": "日本語のマイカーは自家用車。英語では private car や one's own car が自然です。",
+    "Fun": "自家用でも、正解までの燃費が悪すぎますなぁ。"
+  },
+  {
+    "number": 35,
+    "Quiz": "和製英語「プラスアルファ」を、自然な英語で言うならどれ？\n1. plus alpha\n2. negative point\n3. basic fee\n4. something extra",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "基本に少し加わるおまけの要素です。",
+    "Explanation": "日本語のプラスアルファは「さらに加えるもの」。英語では something extra や added bonus が自然です。",
+    "Fun": "プラスどころか、点数はマイナス方向ですなぁ。"
+  },
+  {
+    "number": 36,
+    "Quiz": "和製英語「ワンパターン」を、自然な英語で言うならどれ？\n1. repetitive pattern\n2. one pattern\n3. unique idea\n4. random style",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "いつも同じで変化がないことです。",
+    "Explanation": "日本語のワンパターンは、同じ型ばかりで変化がない様子。英語では repetitive pattern などが自然です。",
+    "Fun": "誤答の型だけは、実にワンパターンでございますなぁ。"
+  },
+  {
+    "number": 37,
+    "Quiz": "和製英語「スキンシップ」を、自然な英語で言うならどれ？\n1. skin care\n2. shipping by skin\n3. physical contact\n4. medical treatment",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "触れ合いによるコミュニケーションです。",
+    "Explanation": "日本語のスキンシップは親しい触れ合い。英語では physical contact や bonding through touch と言います。",
+    "Fun": "触れ合いは大事ですが、正解とは距離がありましたなぁ。"
+  },
+  {
+    "number": 38,
+    "Quiz": "和製英語「チャームポイント」を、自然な英語で言うならどれ？\n1. charm point\n2. attractive feature\n3. magic trick\n4. weak point",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "その人の魅力的な特徴です。",
+    "Explanation": "日本語のチャームポイントは魅力的な部分。英語では attractive feature などが自然です。",
+    "Fun": "魅力はありますが、正解力だけがチャーム不足ですなぁ。"
+  },
+  {
+    "number": 39,
+    "Quiz": "和製英語「カンニング」を、自然な英語で言うならどれ？\n1. cunning\n2. studying\n3. guessing\n4. cheating",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "試験で不正をすることです。",
+    "Explanation": "日本語のカンニングは試験の不正行為。英語の cunning は「ずる賢い」という形容詞です。",
+    "Fun": "カンニングしても取れない点、これは重症ですなぁ。"
+  },
+  {
+    "number": 40,
+    "Quiz": "和製英語「モーニングコール」を、自然な英語で言うならどれ？\n1. wake-up call\n2. morning call\n3. coffee break\n4. alarm clock",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "ホテルなどで指定時刻に起こしてもらう連絡です。",
+    "Explanation": "日本語のモーニングコールは朝に起こしてもらう電話。英語では wake-up call が自然です。",
+    "Fun": "朝は呼ばれても、知識は寝坊したままでございますなぁ。"
+  },
+  {
+    "number": 41,
+    "Quiz": "和製英語「テンション」を、自然な英語で言うならどれ？\n1. tension\n2. electric wire\n3. excitement\n4. stress only",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "気分の盛り上がりを言うときに使います。",
+    "Explanation": "日本語のテンションは気分の高さ。英語の tension は緊張・張力で、盛り上がりは excitement などです。",
+    "Fun": "場のテンションは上がっても、正解率は沈みましたなぁ。"
+  },
+  {
+    "number": 42,
+    "Quiz": "和製英語「オープンカー」を、自然な英語で言うならどれ？\n1. open car\n2. convertible\n3. roof box\n4. rental car",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "屋根を開けて走れる車です。",
+    "Explanation": "日本語のオープンカーは、屋根を開けられる車。英語では convertible が一般的です。",
+    "Fun": "屋根は開いても、答えの引き出しは閉じたままですなぁ。"
+  },
+  {
+    "number": 43,
+    "Quiz": "和製英語「リベンジ」を、自然な英語で言うならどれ？\n1. revenge\n2. escape\n3. apology\n4. retry",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "失敗したことにもう一度挑むニュアンスです。",
+    "Explanation": "日本語では再挑戦の意味でリベンジを使いますが、英語の revenge は復讐。再挑戦なら retry が自然です。",
+    "Fun": "復讐の前に、まず再挑戦の勉強でございますなぁ。"
+  },
+  {
+    "number": 44,
+    "Quiz": "和製英語「ラストスパート」を、自然な英語で言うならどれ？\n1. final push\n2. last spurt\n3. slow finish\n4. early start",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "最後に力を振り絞ることです。",
+    "Explanation": "日本語のラストスパートは最後の追い込み。英語では final push や final stretch が自然です。",
+    "Fun": "最後の追い込みで、見事にゴールを通過し損ねましたなぁ。"
+  },
+  {
+    "number": 45,
+    "Quiz": "和製英語「タイムセール」を、自然な英語で言うならどれ？\n1. time sale\n2. clock shop\n3. flash sale\n4. regular price",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "短い時間だけ安く売る販売方法です。",
+    "Explanation": "日本語のタイムセールは時間限定の安売り。英語では flash sale や limited-time sale と言います。",
+    "Fun": "割引どころか、点数は定価以下でございますなぁ。"
+  },
+  {
+    "number": 46,
+    "Quiz": "和製英語「ガードマン」を、自然な英語で言うならどれ？\n1. guard man\n2. security guard\n3. bodybuilder\n4. police dog",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "施設などを警備する人です。",
+    "Explanation": "日本語のガードマンは警備員。英語では security guard と言うのが一般的です。",
+    "Fun": "警備が甘く、誤答の侵入を許しましたなぁ。"
+  },
+  {
+    "number": 47,
+    "Quiz": "和製英語「テレビゲーム」を、自然な英語で言うならどれ？\n1. TV game\n2. board game\n3. game show\n4. video game",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "画面で遊ぶゲームです。",
+    "Explanation": "日本語のテレビゲームは、英語では video game が一般的です。",
+    "Fun": "ゲームオーバーですなぁ、コンティニューをどうぞ。"
+  },
+  {
+    "number": 48,
+    "Quiz": "和製英語「ゲームセンター」を、自然な英語で言うならどれ？\n1. arcade\n2. game center\n3. sports center\n4. toy store",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "ゲーム機が並ぶ遊び場です。",
+    "Explanation": "日本語のゲームセンターは、英語では arcade や amusement arcade と言います。",
+    "Fun": "コインを入れても、正解景品は出ませんでしたなぁ。"
+  },
+  {
+    "number": 49,
+    "Quiz": "和製英語「ブラインドタッチ」を、自然な英語で言うならどれ？\n1. blind touch\n2. screen tap\n3. touch typing\n4. soft touch",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "キーボードを見ずに打つことです。",
+    "Explanation": "日本語のブラインドタッチは、英語では touch typing。blind touch とは言いません。",
+    "Fun": "キーは見なくても、選択肢は見てほしかったですなぁ。"
+  },
+  {
+    "number": 50,
+    "Quiz": "和製英語「ホームページ」を、自然な英語で言うならどれ？\n1. home page\n2. website\n3. web browser\n4. desk page",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "会社や店のウェブ上の情報全体を指すことがあります。",
+    "Explanation": "英語の home page はサイトの最初のページ。日本語でウェブサイト全体を指す場合は website が自然です。",
+    "Fun": "トップページに戻って、基礎から読み直しですなぁ。"
+  },
+  {
+    "number": 51,
+    "Quiz": "外来語「アルバイト」を、自然な英語で言うならどれ？\n1. full-time company\n2. salary worker\n3. part-time job\n4. unpaid training",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "もとはドイツ語由来の言葉です。",
+    "Explanation": "もとはドイツ語の Arbeit。ドイツ語では広く仕事や労働を指し、日本語のアルバイトは英語で part-time job が自然です。",
+    "Fun": "バイト代より安い答えで、時給ゼロでございますなぁ。"
+  },
+  {
+    "number": 52,
+    "Quiz": "外来語「アンケート」を、自然な英語で言うならどれ？\n1. survey\n2. receipt\n3. contract\n4. appointment",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "もとはフランス語由来の言葉です。",
+    "Explanation": "もとはフランス語の enquête。日本語では質問調査の意味で使われ、英語では survey や questionnaire が自然です。",
+    "Fun": "調査票も呆れて、丸を付ける欄が逃げましたなぁ。"
+  },
+  {
+    "number": 53,
+    "Quiz": "外来語「カルテ」を、自然な英語で言うならどれ？\n1. clinic pass\n2. doctor card\n3. health ticket\n4. medical record",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "もとはドイツ語由来の言葉です。",
+    "Explanation": "もとはドイツ語の Karte。日本語では医師の診察記録を指しますが、英語では medical record や patient chart が自然です。",
+    "Fun": "その診断、カルテに赤字で迷答と書かれますなぁ。"
+  },
+  {
+    "number": 54,
+    "Quiz": "外来語「ギプス」を、自然な英語で言うならどれ？\n1. medical glue\n2. cast\n3. bone cover\n4. plaster shirt",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "もとはドイツ語由来の言葉です。",
+    "Explanation": "もとはドイツ語の Gips。骨折などで患部を固定するものは、英語ではふつう cast と言います。",
+    "Fun": "知識を固定したら、そこだけ曲がりませんなぁ。"
+  },
+  {
+    "number": 55,
+    "Quiz": "外来語「レントゲン」を、自然な英語で言うならどれ？\n1. X-ray\n2. bone photo\n3. radiation card\n4. doctor camera",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "もとはドイツ語の人名由来の言葉です。",
+    "Explanation": "もとはX線を発見したドイツの物理学者 Röntgen の名。英語の日常表現では X-ray が一般的です。",
+    "Fun": "レントゲンでも正解の骨が見えませんなぁ。"
+  },
+  {
+    "number": 56,
+    "Quiz": "外来語「アレルギー」を、自然な英語で言うならどれ？\n1. immune habit\n2. hay fever only\n3. allergy\n4. body shock",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "もとはドイツ語由来の言葉です。",
+    "Explanation": "もとはドイツ語の Allergie。英語では allergy と言い、食物や花粉などへの過敏反応を表します。",
+    "Fun": "正解にアレルギー反応、くしゃみ級でございますなぁ。"
+  },
+  {
+    "number": 57,
+    "Quiz": "外来語「エネルギー」を、自然な英語で言うならどれ？\n1. electric charge\n2. energy\n3. gasoline\n4. battery cell",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "もとはドイツ語由来の言葉です。",
+    "Explanation": "もとはドイツ語の Energie。英語では energy で、発音は「エナジー」に近くなります。",
+    "Fun": "その答え、電池切れどころか充電口も迷子ですなぁ。"
+  },
+  {
+    "number": 58,
+    "Quiz": "外来語「テーマ」を、自然な英語で言うならどれ？\n1. team plan\n2. title page\n3. main event\n4. theme",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "もとはドイツ語由来の言葉です。",
+    "Explanation": "もとはドイツ語の Thema。英語では theme や topic が自然で、発音は「シーム」に近くなります。",
+    "Fun": "主題から外れて、話が畳の裏へ行きましたなぁ。"
+  },
+  {
+    "number": 59,
+    "Quiz": "外来語「メルヘン」を、自然な英語で言うならどれ？\n1. fairy tale\n2. mystery novel\n3. school essay\n4. travel diary",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "もとはドイツ語由来の言葉です。",
+    "Explanation": "もとはドイツ語の Märchen。童話やおとぎ話の意味で、英語では fairy tale が自然です。",
+    "Fun": "夢の国でも、その答えは門前払いでございますなぁ。"
+  },
+  {
+    "number": 60,
+    "Quiz": "外来語「ゲレンデ」を、自然な英語で言うならどれ？\n1. winter hotel\n2. snow board\n3. mountain road\n4. ski slope",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "もとはドイツ語由来の言葉です。",
+    "Explanation": "もとはドイツ語の Gelände。日本語ではスキー場の斜面を指し、英語では ski slope が自然です。",
+    "Fun": "白銀の斜面で、答えだけ派手に転んでおりますなぁ。"
+  },
+  {
+    "number": 61,
+    "Quiz": "外来語「ノイローゼ」を、自然な英語で言うならどれ？\n1. light fever\n2. nervous breakdown\n3. sleeping habit\n4. small injury",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "もとはドイツ語由来の言葉です。",
+    "Explanation": "もとはドイツ語の Neurose。今の英語では文脈により nervous breakdown や neurosis などで表します。",
+    "Fun": "その迷答でこちらが神経衰弱になりそうですなぁ。"
+  },
+  {
+    "number": 62,
+    "Quiz": "外来語「パン」を、自然な英語で言うならどれ？\n1. cake\n2. rice ball\n3. bread\n4. noodle",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "もとはポルトガル語由来の言葉です。",
+    "Explanation": "もとはポルトガル語の pão。日本語のパンは、英語では bread が基本です。",
+    "Fun": "パンは焼けても、答えは生焼けでございますなぁ。"
+  },
+  {
+    "number": 63,
+    "Quiz": "外来語「カステラ」を、自然な英語で言うならどれ？\n1. sponge cake\n2. cheese cake\n3. brownie\n4. custard pie",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "もとはポルトガル語由来の言葉です。",
+    "Explanation": "もとはポルトガル語の bolo de Castella に由来。英語で説明するなら sponge cake が近い表現です。",
+    "Fun": "甘い見通しが底に沈んで、ザラメだけ残りましたなぁ。"
+  },
+  {
+    "number": 64,
+    "Quiz": "外来語「カッパ」を、自然な英語で言うならどれ？\n1. river sprite\n2. umbrella\n3. winter coat\n4. raincoat",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "もとはポルトガル語由来の言葉です。",
+    "Explanation": "雨具のカッパは、もとはポルトガル語の capa。英語では raincoat や rain poncho が自然です。",
+    "Fun": "雨は防げても、間違いの水漏れがひどいですなぁ。"
+  },
+  {
+    "number": 65,
+    "Quiz": "外来語「カルタ」を、自然な英語で言うならどれ？\n1. board game\n2. playing cards\n3. word puzzle\n4. dice game",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "もとはポルトガル語由来の言葉です。",
+    "Explanation": "もとはポルトガル語の carta。札を使う遊びを表し、英語では playing cards などで説明します。",
+    "Fun": "札は取れずに、知識だけお手つきでございますなぁ。"
+  },
+  {
+    "number": 66,
+    "Quiz": "外来語「タバコ」を、自然な英語で言うならどれ？\n1. pipe cleaner\n2. smoke alarm\n3. cigarette\n4. ash tray",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "もとはポルトガル語由来の言葉です。",
+    "Explanation": "もとはポルトガル語の tabaco。日本語の一本のタバコは、英語では cigarette が自然です。",
+    "Fun": "煙に巻くつもりが、自分がむせておりますなぁ。"
+  },
+  {
+    "number": 67,
+    "Quiz": "外来語「ボタン」を、自然な英語で言うならどれ？\n1. button\n2. flower pot\n3. small bell\n4. cloth hook",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "衣服の留め具はポルトガル語由来です。",
+    "Explanation": "衣服の留め具としてのボタンは、もとはポルトガル語 botão 由来。英語では button です。",
+    "Fun": "押すボタンを間違えて、迷答ベルが鳴りましたなぁ。"
+  },
+  {
+    "number": 68,
+    "Quiz": "外来語「コンペイトウ」を、自然な英語で言うならどれ？\n1. salt crystal\n2. rice cracker\n3. sugar candy\n4. jelly bean",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "もとはポルトガル語由来の言葉です。",
+    "Explanation": "もとはポルトガル語の confeito。小さな砂糖菓子なので、英語では sugar candy と説明できます。",
+    "Fun": "角は立っても、答えは丸く収まりませんなぁ。"
+  },
+  {
+    "number": 69,
+    "Quiz": "外来語「コップ」を、自然な英語で言うならどれ？\n1. coffee mug\n2. drinking glass\n3. soup bowl\n4. tea spoon",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "もとはオランダ語由来の言葉です。",
+    "Explanation": "もとはオランダ語の kop。英語では素材や形により drinking glass、cup、tumbler などを使います。",
+    "Fun": "水を注いでも、知識の底が抜けておりますなぁ。"
+  },
+  {
+    "number": 70,
+    "Quiz": "外来語「ランドセル」を、自然な英語で言うならどれ？\n1. lunch box\n2. school desk\n3. rain cover\n4. school backpack",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "もとはオランダ語由来の言葉です。",
+    "Explanation": "もとはオランダ語の ransel。小学生のかばんとして説明するなら school backpack が自然です。",
+    "Fun": "六年背負っても、その答えは入学前ですなぁ。"
+  },
+  {
+    "number": 71,
+    "Quiz": "外来語「オルゴール」を、自然な英語で言うならどれ？\n1. music box\n2. toy piano\n3. alarm clock\n4. small radio",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "もとはオランダ語由来の言葉です。",
+    "Explanation": "もとはオランダ語の orgel。英語ではぜんまい式の自動演奏箱を music box と言います。",
+    "Fun": "美しい音色の横で、答えだけ不協和音ですなぁ。"
+  },
+  {
+    "number": 72,
+    "Quiz": "外来語「メス」を、自然な英語で言うならどれ？\n1. stethoscope\n2. syringe\n3. scalpel\n4. bandage",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "もとはオランダ語由来の言葉です。",
+    "Explanation": "手術用のメスは、もとはオランダ語の mes。英語では scalpel が自然です。",
+    "Fun": "切れ味不足で、迷答の患部が残りましたなぁ。"
+  },
+  {
+    "number": 73,
+    "Quiz": "外来語「ゴム」を、自然な英語で言うならどれ？\n1. gum\n2. rubber\n3. glue\n4. wax",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "もとはオランダ語由来の言葉です。",
+    "Explanation": "もとはオランダ語の gom。日本語の素材としてのゴムは、英語では rubber と言います。",
+    "Fun": "伸びしろはありますが、正解までは届きませんなぁ。"
+  },
+  {
+    "number": 74,
+    "Quiz": "外来語「ピーマン」を、自然な英語で言うならどれ？\n1. pea\n2. pimento cheese\n3. green tomato\n4. green pepper",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "もとはフランス語由来の言葉です。",
+    "Explanation": "もとはフランス語の piment。日本語のピーマンは、英語では green pepper や bell pepper が自然です。",
+    "Fun": "中身が空洞とは、ピーマンに失礼でございますなぁ。"
+  },
+  {
+    "number": 75,
+    "Quiz": "外来語「マロン」を、自然な英語で言うならどれ？\n1. chestnut\n2. melon\n3. almond\n4. walnut",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "もとはフランス語由来の言葉です。",
+    "Explanation": "もとはフランス語の marron。日本語の栗の意味では、英語では chestnut が自然です。",
+    "Fun": "栗より甘い勘違い、渋皮つきでございますなぁ。"
+  },
+  {
+    "number": 76,
+    "Quiz": "外来語「デッサン」を、自然な英語で言うならどれ？\n1. dessert\n2. design fee\n3. sketch\n4. paint brush",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "もとはフランス語由来の言葉です。",
+    "Explanation": "もとはフランス語の dessin。絵の下描きや素描は、英語では sketch や drawing が自然です。",
+    "Fun": "下書きの段階で、もう構図が崩れてますなぁ。"
+  },
+  {
+    "number": 77,
+    "Quiz": "外来語「アトリエ」を、自然な英語で言うならどれ？\n1. gallery\n2. studio\n3. museum\n4. warehouse",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "もとはフランス語由来の言葉です。",
+    "Explanation": "もとはフランス語の atelier。芸術家の作業場は、英語では studio と言うのが自然です。",
+    "Fun": "芸術的な外し方で、額縁だけ立派ですなぁ。"
+  },
+  {
+    "number": 78,
+    "Quiz": "外来語「シュークリーム」を、自然な英語で言うならどれ？\n1. shoe cream\n2. cream shoe\n3. custard roll\n4. cream puff",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "もとはフランス語由来の言葉です。",
+    "Explanation": "もとはフランス語の chou à la crème。英米では shoe cream ではなく cream puff と呼びます。",
+    "Fun": "クリームは詰まっても、知識は空洞ですなぁ。"
+  },
+  {
+    "number": 79,
+    "Quiz": "外来語「イクラ」を、自然な英語で言うならどれ？\n1. salmon roe\n2. red bean\n3. fish soup\n4. seaweed",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "もとはロシア語由来の言葉です。",
+    "Explanation": "もとはロシア語の ikra。日本語では鮭の卵を指すことが多く、英語では salmon roe が自然です。",
+    "Fun": "粒は光っても、答えの鮮度が落ちておりますなぁ。"
+  },
+  {
+    "number": 80,
+    "Quiz": "外来語「ノルマ」を、自然な英語で言うならどれ？\n1. deadline\n2. bonus\n3. rule book\n4. quota",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "もとはロシア語由来の言葉です。",
+    "Explanation": "もとはロシア語の norma。日本語では達成すべき作業量の意味で、英語では quota が自然です。",
+    "Fun": "その正答率では、ノルマ未達でございますなぁ。"
+  },
+  {
+    "number": 81,
+    "Quiz": "和製英語「リストラ」を、自然な英語で言うならどれ？\n1. downsizing\n2. company reform\n3. staff refresh\n4. office renewal",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "会社の人員整理を表す時の英語です。",
+    "Explanation": "restructuring を略した日本語表現。英語の restructuring は再編の意味が強く、人員削減なら downsizing や layoffs が自然です。",
+    "Fun": "その答え、会議室で真っ先に整理対象ですなぁ。"
+  },
+  {
+    "number": 82,
+    "Quiz": "和製英語「フリーダイヤル」を、自然な英語で言うならどれ？\n1. free dial\n2. open call\n3. toll-free number\n4. dial pass",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "電話料金がかからない番号の表現です。",
+    "Explanation": "free と dial を組み合わせた日本語表現。英語では toll-free number、イギリスでは freephone などが自然です。",
+    "Fun": "無料通話でも、その迷答は受け付けませんなぁ。"
+  },
+  {
+    "number": 83,
+    "Quiz": "和製英語「シルバーシート」を、自然な英語で言うならどれ？\n1. silver chair\n2. priority seat\n3. senior bench\n4. reserved sofa",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "電車やバスで必要な人に譲る席です。",
+    "Explanation": "silver を高齢者の意味で使う日本語的表現。英語では priority seat や priority seating が自然です。",
+    "Fun": "優先されるのは席で、迷答ではありませんなぁ。"
+  },
+  {
+    "number": 84,
+    "Quiz": "和製英語「バリアフリー」を、自然な英語で言うならどれ？\n1. barrier charge\n2. free barrier\n3. open floor\n4. accessible",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "誰でも使いやすい設計を表します。",
+    "Explanation": "barrier-free も通じる場合はありますが、英語の案内では accessible や accessibility がより自然です。",
+    "Fun": "壁をなくしても、正解への段差が高いですなぁ。"
+  },
+  {
+    "number": 85,
+    "Quiz": "和製英語「スキルアップ」を、自然な英語で言うならどれ？\n1. upskilling\n2. skill upper\n3. skill rise\n4. ability charge",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "能力を高めることを表す少し新しい語です。",
+    "Explanation": "skill と up を合わせた日本語表現。英語では upskilling、training、professional development などが自然です。",
+    "Fun": "腕前を上げる前に、答えを下げましたなぁ。"
+  },
+  {
+    "number": 86,
+    "Quiz": "和製英語「コストダウン」を、自然な英語で言うならどれ？\n1. cost down\n2. price sleep\n3. money cut\n4. cost reduction",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "費用を下げることを表します。",
+    "Explanation": "cost と down をつないだ日本語表現。英語では cost reduction や cost cutting が自然です。",
+    "Fun": "節約しすぎて、正解の材料まで削りましたなぁ。"
+  },
+  {
+    "number": 87,
+    "Quiz": "和製英語「ベースアップ」を、自然な英語で言うならどれ？\n1. base up\n2. base pay increase\n3. salary base\n4. pay ladder",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "基本給が上がることを表します。",
+    "Explanation": "base と up を合わせた日本語表現。英語では base pay increase や across-the-board raise が自然です。",
+    "Fun": "給料は上がらず、間違いだけ昇給ですなぁ。"
+  },
+  {
+    "number": 88,
+    "Quiz": "和製英語「ナンバーディスプレイ」を、自然な英語で言うならどれ？\n1. number screen\n2. phone board\n3. caller ID\n4. call window",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "電話をかけてきた相手の番号表示です。",
+    "Explanation": "number と display を組み合わせた日本のサービス名。英語では caller ID が自然です。",
+    "Fun": "番号は出ても、正解番号は見えませんなぁ。"
+  },
+  {
+    "number": 89,
+    "Quiz": "和製英語「ホームドア」を、自然な英語で言うならどれ？\n1. platform screen doors\n2. home doors\n3. train gates\n4. station curtains",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "駅の線路側にある安全用の扉です。",
+    "Explanation": "ホームは日本語で駅の platform を指す略語。英語では platform screen doors が自然です。",
+    "Fun": "扉は開いたのに、正解ホームに着きませんなぁ。"
+  },
+  {
+    "number": 90,
+    "Quiz": "和製英語「サービスエリア」を、自然な英語で言うならどれ？\n1. customer service area\n2. drive service\n3. highway cafe\n4. highway rest stop",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "高速道路で休憩する場所です。",
+    "Explanation": "service area も道路用語で使われますが、日常的には highway rest stop や rest area が自然です。",
+    "Fun": "休憩しすぎて、答えが本線に戻れませんなぁ。"
+  },
+  {
+    "number": 91,
+    "Quiz": "和製英語「ワンマン運転」を、自然な英語で言うならどれ？\n1. one-man driving\n2. solo service\n3. driver-only operation\n4. single train",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "車掌なしで運行する方式です。",
+    "Explanation": "one-man を日本語で運転方式に使った表現。英語では driver-only operation などが自然です。",
+    "Fun": "一人で走って、一人で迷子になりましたなぁ。"
+  },
+  {
+    "number": 92,
+    "Quiz": "和製英語「ドクターストップ」を、自然な英語で言うならどれ？\n1. doctor stop\n2. doctor's orders\n3. medical pause\n4. hospital ban",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "医師に止められることを表します。",
+    "Explanation": "doctor と stop を合わせた日本語表現。英語では doctor's orders や medical advice が自然です。",
+    "Fun": "医者も止めるほどの迷答でございますなぁ。"
+  },
+  {
+    "number": 93,
+    "Quiz": "和製英語「ペットロス」を、自然な英語で言うならどれ？\n1. pet missing\n2. lost pet\n3. pet loss\n4. pet bereavement",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "飼っていた動物を失った悲しみです。",
+    "Explanation": "pet と loss をつないだ日本語表現。英語では pet bereavement や grief after losing a pet が自然です。",
+    "Fun": "ロスしたのはペットでなく正解感覚ですなぁ。"
+  },
+  {
+    "number": 94,
+    "Quiz": "和製英語「フリーサイズ」を、自然な英語で言うならどれ？\n1. one size fits all\n2. free size\n3. open size\n4. easy size",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "サイズを細かく分けない服などに使います。",
+    "Explanation": "free size は日本語的表現。英語では one size fits all や one-size が自然です。",
+    "Fun": "誰にでも合うはずが、答えだけ寸足らずですなぁ。"
+  },
+  {
+    "number": 95,
+    "Quiz": "和製英語「バージンロード」を、自然な英語で言うならどれ？\n1. virgin road\n2. wedding aisle\n3. bridal street\n4. church lane",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "結婚式で花嫁が歩く通路です。",
+    "Explanation": "virgin と road を合わせた日本語表現。英語では wedding aisle や aisle が自然です。",
+    "Fun": "晴れの道で、迷答が裾を踏んでおりますなぁ。"
+  },
+  {
+    "number": 96,
+    "Quiz": "和製英語「デッドボール」を、自然な英語で言うならどれ？\n1. dead ball\n2. body ball\n3. hit by pitch\n4. pitch attack",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "野球で投球が打者に当たることです。",
+    "Explanation": "dead ball は英語にもありますが、日本語の意味では英語で hit by pitch が自然です。",
+    "Fun": "答えに当たらず、肘に当たって出塁ですなぁ。"
+  },
+  {
+    "number": 97,
+    "Quiz": "和製英語「フォアボール」を、自然な英語で言うならどれ？\n1. walk\n2. four ball\n3. free pitch\n4. ball pass",
+    "Answer": "1",
+    "Alternative_Answer": [
+      "1",
+      "１"
+    ],
+    "Hint": "野球で四球を表す短い英語です。",
+    "Explanation": "four balls から来た日本語表現。英語では walk や base on balls が自然です。",
+    "Fun": "四つ選んでなお歩かされるとは器用ですなぁ。"
+  },
+  {
+    "number": 98,
+    "Quiz": "和製英語「ロスタイム」を、自然な英語で言うならどれ？\n1. lost time\n2. stoppage time\n3. extra loss\n4. late minutes",
+    "Answer": "2",
+    "Alternative_Answer": [
+      "2",
+      "２"
+    ],
+    "Hint": "サッカーなどで追加される時間です。",
+    "Explanation": "loss time 風の日本語表現。英語では stoppage time や injury time が自然です。",
+    "Fun": "追加時間をもらっても、迷答だけ延長ですなぁ。"
+  },
+  {
+    "number": 99,
+    "Quiz": "和製英語「ジェットコースター」を、自然な英語で言うならどれ？\n1. jet coaster\n2. fast train\n3. roller coaster\n4. sky cart",
+    "Answer": "3",
+    "Alternative_Answer": [
+      "3",
+      "３"
+    ],
+    "Hint": "遊園地で急上昇や急降下を楽しむ乗り物です。",
+    "Explanation": "jet と coaster を合わせた日本語表現。英語では roller coaster が自然です。",
+    "Fun": "上がった期待が急降下、見事な落差ですなぁ。"
+  },
+  {
+    "number": 100,
+    "Quiz": "和製英語「ハイタッチ」を、自然な英語で言うならどれ？\n1. high touch\n2. hand clap\n3. palm hit\n4. high five",
+    "Answer": "4",
+    "Alternative_Answer": [
+      "4",
+      "４"
+    ],
+    "Hint": "喜び合う時に手のひらを合わせます。",
+    "Explanation": "high と touch を合わせた日本語表現。英語では high five と言います。",
+    "Fun": "手は上がりましたが、正解とは空振りですなぁ。"
+  }
+]
